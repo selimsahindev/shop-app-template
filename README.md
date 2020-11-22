@@ -9,4 +9,5 @@ Fully functional shop app written in Flutter. From the course of Maximilian Schw
 ![Shop Screen](/screenshots/shop.png)
 ![Favorites Screen](/screenshots/favorites.png)
 ![Orders Screen](/screenshots/orders.png)
+![Order Info Screen](/screenshots/order-info.png)
 ![Item Screen](/screenshots/item.png)
